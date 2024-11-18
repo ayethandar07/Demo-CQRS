@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Blogs\Commands\DeleteBlog\" />
-    <Folder Include="Blogs\Commands\UpdateBlog\" />
     <Folder Include="Common\Exceptions\" />
     <Folder Include="Common\Behaviours\" />
   </ItemGroup>
